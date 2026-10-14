@@ -1,0 +1,76 @@
+{
+ "name": "World Empire",
+ "short_name": "World Empire",
+ "description": "Lead a country from 1990 to 2050: diplomacy, war, economy, the Internet. · Dirigez un pays de 1990 à 2050.",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#0b1424",
+ "theme_color": "#0b1424",
+ "categories": [
+  "games"
+ ],
+ "lang": "en",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "id": "/index.html",
+ "display_override": [
+  "standalone"
+ ],
+ "screenshots": [
+  {
+   "src": "desk-1.png",
+   "sizes": "1366x768",
+   "type": "image/png",
+   "form_factor": "wide",
+   "label": "La carte du monde en 1990"
+  },
+  {
+   "src": "desk-2.png",
+   "sizes": "1366x768",
+   "type": "image/png",
+   "form_factor": "wide",
+   "label": "Pouvoir et peuple"
+  },
+  {
+   "src": "desk-3.png",
+   "sizes": "1366x768",
+   "type": "image/png",
+   "form_factor": "wide",
+   "label": "Relations internationales"
+  },
+  {
+   "src": "mob-1.png",
+   "sizes": "390x844",
+   "type": "image/png",
+   "form_factor": "narrow",
+   "label": "Sur mobile"
+  },
+  {
+   "src": "mob-2.png",
+   "sizes": "390x844",
+   "type": "image/png",
+   "form_factor": "narrow",
+   "label": "Gouverner sur mobile"
+  }
+ ]
+}
